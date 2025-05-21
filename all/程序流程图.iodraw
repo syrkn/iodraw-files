@@ -13,6 +13,9 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1001" value="&lt;span&gt;开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="614" y="32" width="129" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="pzLctukaZZaYZUM_jkrv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HZyqP8lNtJwYMgKbey4X-1002" target="HZyqP8lNtJwYMgKbey4X-1003">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1002" value="分析UI主要退化类型" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="108" y="109" width="153" height="48" as="geometry" />
         </mxCell>
@@ -24,9 +27,6 @@
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1004" value="主观评价测试" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="106" y="300" width="153" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="pzLctukaZZaYZUM_jkrv-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HZyqP8lNtJwYMgKbey4X-1005" target="HZyqP8lNtJwYMgKbey4X-1004">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1005" value="数据分析与处理" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="108" y="400" width="153" height="48" as="geometry" />
@@ -88,10 +88,10 @@
             <mxPoint x="184" y="267" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1023" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" edge="1" target="HZyqP8lNtJwYMgKbey4X-1005">
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-1023" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="184" y="350" as="sourcePoint" />
-            <mxPoint x="183" y="352" as="targetPoint" />
+            <mxPoint x="181" y="350" as="sourcePoint" />
+            <mxPoint x="181.33783783783792" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1025" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" edge="1">
