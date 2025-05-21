@@ -16,6 +16,9 @@
         <mxCell id="pzLctukaZZaYZUM_jkrv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HZyqP8lNtJwYMgKbey4X-1002" target="HZyqP8lNtJwYMgKbey4X-1003">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pzLctukaZZaYZUM_jkrv-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HZyqP8lNtJwYMgKbey4X-1002" target="HZyqP8lNtJwYMgKbey4X-1044">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1002" value="分析UI主要退化类型" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="108" y="120" width="153" height="48" as="geometry" />
         </mxCell>
@@ -76,9 +79,9 @@
             <mxPoint x="186" y="108" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1021" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;exitX=0.527;exitY=1.022;exitPerimeter=0;fontStyle=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="HZyqP8lNtJwYMgKbey4X-1003">
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-1021" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;fontStyle=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="HZyqP8lNtJwYMgKbey4X-1003">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="184" y="158" as="sourcePoint" />
+            <mxPoint x="185" y="170" as="sourcePoint" />
             <mxPoint x="184" y="188" as="targetPoint" />
             <Array as="points">
               <mxPoint x="184" y="170" />
