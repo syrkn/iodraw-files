@@ -19,7 +19,7 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1003" value="分组收集水下图像" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="108" y="189" width="153" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1004" value="开始多任务" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-1004" value="主观评价测试" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="107" y="269" width="153" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1005" value="接受数据任务" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
