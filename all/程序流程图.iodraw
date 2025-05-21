@@ -22,11 +22,8 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1004" value="主观评价测试" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="107" y="269" width="153" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1005" value="接受数据任务" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-1005" value="数据分析与处理" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="108" y="353" width="153" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1006" value="发送延时到？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="106" y="443" width="149" height="61" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1007" value="发送数据任务" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="108" y="570" width="153" height="48" as="geometry" />
@@ -91,10 +88,10 @@
             <mxPoint x="183" y="352" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1024" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;entryX=0.498;entryY=-0.007;entryPerimeter=0;fontStyle=0" parent="1" target="HZyqP8lNtJwYMgKbey4X-1006" edge="1">
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-1024" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;entryX=0.498;entryY=-0.007;entryPerimeter=0;fontStyle=0" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="181" y="401" as="sourcePoint" />
-            <mxPoint x="181" y="435" as="targetPoint" />
+            <mxPoint x="180.202" y="442.57299999999987" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1025" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" edge="1">
@@ -173,17 +170,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="683" y="400" as="sourcePoint" />
             <mxPoint x="683" y="458" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1038" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;exitX=0.004;exitY=0.47;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;fontStyle=0" parent="1" source="HZyqP8lNtJwYMgKbey4X-1006" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="24" y="480" as="sourcePoint" />
-            <mxPoint x="182" y="327" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="62" y="472" />
-              <mxPoint x="62" y="385" />
-              <mxPoint x="63" y="327" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1039" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;exitX=0.014;exitY=0.472;exitPerimeter=0;entryX=0.008;entryY=0.458;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fontStyle=0" parent="1" source="HZyqP8lNtJwYMgKbey4X-1011" target="HZyqP8lNtJwYMgKbey4X-1008" edge="1">
