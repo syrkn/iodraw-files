@@ -17,7 +17,7 @@
           <mxGeometry x="108" y="109" width="153" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1003" value="分组收集水下图像" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="108" y="189" width="153" height="48" as="geometry" />
+          <mxGeometry x="108" y="210" width="153" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1004" value="主观评价测试" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="106" y="300" width="153" height="48" as="geometry" />
@@ -79,7 +79,7 @@
             <mxPoint x="184" y="188" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1022" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;exitX=0.527;exitY=1.022;exitPerimeter=0;fontStyle=0" parent="1" edge="1">
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-1022" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;exitX=0.527;exitY=1.022;exitPerimeter=0;fontStyle=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="HZyqP8lNtJwYMgKbey4X-1004">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="184" y="237" as="sourcePoint" />
             <mxPoint x="184" y="267" as="targetPoint" />
