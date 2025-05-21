@@ -14,7 +14,7 @@
           <mxGeometry x="614" y="32" width="129" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1002" value="分析UI主要退化类型" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="108" y="109" width="153" height="48" as="geometry" />
+          <mxGeometry x="108" y="120" width="153" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pzLctukaZZaYZUM_jkrv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HZyqP8lNtJwYMgKbey4X-1003" target="HZyqP8lNtJwYMgKbey4X-1004">
           <mxGeometry relative="1" as="geometry" />
@@ -78,7 +78,7 @@
             <mxPoint x="184" y="158" as="sourcePoint" />
             <mxPoint x="184" y="188" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="184" y="200" />
+              <mxPoint x="184" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
