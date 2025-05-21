@@ -25,9 +25,6 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1005" value="数据分析与处理" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="108" y="353" width="153" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1007" value="发送数据任务" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="108" y="570" width="153" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1008" value="设定数据业务号码" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="352" y="107" width="153" height="48" as="geometry" />
         </mxCell>
@@ -92,12 +89,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="181" y="401" as="sourcePoint" />
             <mxPoint x="180.202" y="442.57299999999987" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1025" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;fontStyle=0" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="181" y="503" as="sourcePoint" />
-            <mxPoint x="180" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1026" value="" style="endArrow=classic;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fontSize=16;fontColor=none;align=center;exitX=0.527;exitY=1.022;exitPerimeter=0;fontStyle=0" parent="1" edge="1">
